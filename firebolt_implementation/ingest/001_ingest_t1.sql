@@ -1,0 +1,2 @@
+-- INSERT into t1
+-- select from ex_t1
